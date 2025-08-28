@@ -7,6 +7,9 @@
 
 This project is an interactive Power BI dashboard analyzing global video game sales. The goal of this dashboard is to provide insights into sales trends, market share, platforms, genres, and regional performance across the gaming industry.
 
+Dataset file = Video_Games_Sales_as_at_22_Dec_2016.csv
+Report file = Video_Games_Sales_Report_Showcase_IMostlySleepOutside.pbix
+
 **🚀 Features**
 
 **Global & Regional Sales Overview**
