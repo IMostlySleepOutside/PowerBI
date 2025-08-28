@@ -1,4 +1,7 @@
+![Report_screenshot](https://github.com/user-attachments/assets/8dccb028-c5f1-401f-9c4a-e6f65d0efb33)
+
 **🎮 Video Game Sales 1980 - 2020 (Power BI Report)**
+
 
 **📊 Project Overview**
 
@@ -7,8 +10,7 @@ This project is an interactive Power BI dashboard analyzing global video game sa
 **🚀 Features**
 
 **Global & Regional Sales Overview**
-
-- Total Global Sales: $8.92bn
+Total Global Sales: $8.92bn
 NA Sales: $4.40bn
 EU Sales: $2.42bn
 JP Sales: $1.30bn
@@ -16,7 +18,7 @@ Other Sales: $0.79bn
 Total Sales by Year
 
 
-**Total Sales by Year **
+**Total Sales by Year**
 
 - Tracks sales growth and decline from 1980–2020
 
